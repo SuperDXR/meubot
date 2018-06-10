@@ -1,0 +1,20 @@
+{
+  "name": "freenetwork",
+  "version": "1.0.0",
+  "description": "Ligado!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "superdxr",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "math.js": "^1.1.43"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "Bot Simples"
+  }
+}
